@@ -4,15 +4,15 @@ Nintendo Switch
 Xbox
 Steam
 
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
 华为
 鸿蒙
 HarmonyOS
+鸿蒙智行
+问界
+智界
 任正非
 
 比亚迪
@@ -79,10 +79,14 @@ sora
 claude
 Anthropic
 
+xAI
+Grok
+
 iphone
 ipad
 mac
 ios
+carplay
 
 ai
 !gai
